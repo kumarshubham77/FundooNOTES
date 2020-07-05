@@ -1,0 +1,8 @@
+C:\Users\kshub\source\FundooApplication\FundooModels\bin\Debug\netstandard2.0\FundooModels.deps.json
+C:\Users\kshub\source\FundooApplication\FundooModels\bin\Debug\netstandard2.0\FundooModels.dll
+C:\Users\kshub\source\FundooApplication\FundooModels\bin\Debug\netstandard2.0\FundooModels.pdb
+C:\Users\kshub\source\FundooApplication\FundooModels\obj\Debug\netstandard2.0\FundooModels.csprojAssemblyReference.cache
+C:\Users\kshub\source\FundooApplication\FundooModels\obj\Debug\netstandard2.0\FundooModels.AssemblyInfoInputs.cache
+C:\Users\kshub\source\FundooApplication\FundooModels\obj\Debug\netstandard2.0\FundooModels.AssemblyInfo.cs
+C:\Users\kshub\source\FundooApplication\FundooModels\obj\Debug\netstandard2.0\FundooModels.dll
+C:\Users\kshub\source\FundooApplication\FundooModels\obj\Debug\netstandard2.0\FundooModels.pdb

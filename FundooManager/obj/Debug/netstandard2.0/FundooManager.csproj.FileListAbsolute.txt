@@ -1,0 +1,13 @@
+C:\Users\kshub\source\FundooApplication\FundooManager\bin\Debug\netstandard2.0\FundooManager.deps.json
+C:\Users\kshub\source\FundooApplication\FundooManager\bin\Debug\netstandard2.0\FundooManager.dll
+C:\Users\kshub\source\FundooApplication\FundooManager\bin\Debug\netstandard2.0\FundooManager.pdb
+C:\Users\kshub\source\FundooApplication\FundooManager\bin\Debug\netstandard2.0\FundooModels.dll
+C:\Users\kshub\source\FundooApplication\FundooManager\bin\Debug\netstandard2.0\FundooRepository.dll
+C:\Users\kshub\source\FundooApplication\FundooManager\bin\Debug\netstandard2.0\FundooModels.pdb
+C:\Users\kshub\source\FundooApplication\FundooManager\bin\Debug\netstandard2.0\FundooRepository.pdb
+C:\Users\kshub\source\FundooApplication\FundooManager\obj\Debug\netstandard2.0\FundooManager.csprojAssemblyReference.cache
+C:\Users\kshub\source\FundooApplication\FundooManager\obj\Debug\netstandard2.0\FundooManager.AssemblyInfoInputs.cache
+C:\Users\kshub\source\FundooApplication\FundooManager\obj\Debug\netstandard2.0\FundooManager.AssemblyInfo.cs
+C:\Users\kshub\source\FundooApplication\FundooManager\obj\Debug\netstandard2.0\FundooManager.csproj.CopyComplete
+C:\Users\kshub\source\FundooApplication\FundooManager\obj\Debug\netstandard2.0\FundooManager.dll
+C:\Users\kshub\source\FundooApplication\FundooManager\obj\Debug\netstandard2.0\FundooManager.pdb
